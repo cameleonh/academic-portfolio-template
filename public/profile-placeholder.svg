@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title description">
+  <title id="title">Profile image placeholder</title>
+  <desc id="description">An abstract portrait placeholder in blue-gray tones.</desc>
+  <rect width="640" height="800" fill="#e7ecef"/>
+  <path d="M0 585c140-110 284-176 640-138v353H0V585Z" fill="#d4dde2"/>
+  <path d="M30 675C193 499 360 430 610 465" fill="none" stroke="#8798a5" stroke-width="5" opacity=".45"/>
+  <circle cx="320" cy="275" r="126" fill="#9aabb6"/>
+  <path d="M111 800c8-207 89-327 209-327s201 120 209 327H111Z" fill="#526b7d"/>
+  <circle cx="320" cy="275" r="106" fill="#b9c5cc" opacity=".7"/>
+  <path d="M171 800c18-154 72-240 149-240s131 86 149 240H171Z" fill="#3e536d"/>
+</svg>

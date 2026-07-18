@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Academic Portfolio Template</title>
+  <desc id="description">A blue-gray editorial social preview for a bilingual academic portfolio.</desc>
+  <rect width="1200" height="630" fill="#f5f7f8"/>
+  <path d="M690 530c114-141 223-189 427-338" fill="none" stroke="#8798a5" stroke-width="4" opacity=".42"/>
+  <path d="M666 571c150-99 258-93 462-219" fill="none" stroke="#3e536d" stroke-width="4" opacity=".28"/>
+  <circle cx="712" cy="503" r="12" fill="#3e536d" opacity=".45"/>
+  <circle cx="842" cy="397" r="12" fill="#3e536d" opacity=".45"/>
+  <circle cx="978" cy="292" r="12" fill="#3e536d" opacity=".45"/>
+  <circle cx="1117" cy="192" r="12" fill="#3e536d" opacity=".45"/>
+  <text x="92" y="142" fill="#526b7d" font-family="ui-monospace, monospace" font-size="22" letter-spacing="5">BILINGUAL · RESPONSIVE · STATIC</text>
+  <text x="88" y="278" fill="#252b30" font-family="Georgia, serif" font-size="72" font-weight="600">Academic Portfolio</text>
+  <text x="92" y="354" fill="#59636b" font-family="Arial, sans-serif" font-size="38">A reusable research website template</text>
+  <rect x="92" y="424" width="294" height="62" rx="5" fill="#3e536d"/>
+  <text x="126" y="465" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="600">ENGLISH + 한국어</text>
+</svg>
