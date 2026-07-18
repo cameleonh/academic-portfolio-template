@@ -45,11 +45,12 @@ The static export is written to `out/`.
 
 ## Deploy to GitHub Pages
 
-The included workflow builds and deploys on every push to `main`.
+The included workflow builds and deploys when you run it manually.
 
 1. Open the repository's **Settings → Pages**.
 2. Set **Source** to **GitHub Actions**.
-3. Push to `main`.
+3. Open **Actions → Deploy to GitHub Pages**.
+4. Select **Run workflow** on the `main` branch.
 
 The workflow automatically configures a project-page base path from the
 repository name. If the repository is named `<username>.github.io`, remove
