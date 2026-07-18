@@ -30,10 +30,13 @@ The visible sample data is intentionally concentrated in a few files:
 | English and Korean interface copy | `src/content/i18n.ts` |
 | Profile placeholder | `public/profile-placeholder.svg` |
 | Social preview | `public/social-preview.svg` |
+| Browser and device icons | `public/favicon.svg`, `public/favicon-*.png`, `public/apple-touch-icon.png` |
 | Visual tokens and component rules | `DESIGN.md` and `src/styles/globals.css` |
 
 Replace the placeholder SVG with a portrait using the same filename, or update
 `site.profileImage` and `site.profileImageUrl` in `src/content/site.ts`.
+Replace all four favicon files together so browser tabs, bookmarks, and saved
+home-screen icons use the same identity.
 
 ## Verify locally
 

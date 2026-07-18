@@ -55,6 +55,9 @@ export default function Layout({
         <link rel="alternate" hrefLang="en" href={englishUrl} />
         <link rel="alternate" hrefLang="ko" href={koreanUrl} />
         <link rel="icon" type="image/svg+xml" href={site.favicon} />
+        <link rel="icon" type="image/png" sizes="32x32" href={site.favicon32} />
+        <link rel="icon" type="image/png" sizes="16x16" href={site.favicon16} />
+        <link rel="apple-touch-icon" sizes="180x180" href={site.appleTouchIcon} />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={pageDescription} />
         <meta property="og:image" content={pageImage} />

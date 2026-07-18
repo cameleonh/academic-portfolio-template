@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="favicon-title">
+  <title id="favicon-title">Academic Portfolio</title>
   <rect width="64" height="64" rx="10" fill="#3e536d"/>
   <path d="M16 45 27 18h5l11 27h-6l-2.6-7H24.2l-2.6 7H16Zm10-12h6.6l-3.3-9-3.3 9Z" fill="#f5f7f8"/>
   <path d="M43 18h7c7 0 11 3.6 11 9.5S57 37 50 37h-1v8h-6V18Zm6 5v9h1c3.4 0 5-1.4 5-4.5S53.4 23 50 23h-1Z" fill="#9fb6c7"/>
